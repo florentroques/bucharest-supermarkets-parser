@@ -1,1 +1,1 @@
-# bucharest-supermarkets-parser
+# bucharest-supermarkets-scrappers
