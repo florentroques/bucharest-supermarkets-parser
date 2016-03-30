@@ -1,0 +1,11 @@
+{
+  "name"         : "bucharest-supermarkets-scrapper",
+  "version"      : "0.0.1",
+  "description"  : "Scraping in progress",
+  "main"         : "mega-image-scraper.js",
+  "author"       : "florentroques",
+  "dependencies" : {
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
